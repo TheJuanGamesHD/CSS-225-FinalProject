@@ -1,5 +1,5 @@
 # CSS-225-FinalProject
-
+Game Name: Combat Medic Game
 Technical Documentation for Combat Medic Game
  
 Where the Code is Hosted
