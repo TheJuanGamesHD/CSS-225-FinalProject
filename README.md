@@ -63,3 +63,5 @@ Open a terminal/command prompt in the directory containing the files is only one
 Run the following command in the terminal/command prompt:
 python maingame.py
 Follow the on screen prompts to progress through the game by selecting numbered options and data info from the game.
+
+Update 2: I created this game because I like everything related to the military and the technology it develops, although it is important to take into account the human factor and how something beautiful can come out of it, like an angel who risks his life for others, that is how legends are created. Finally, I want to say that it was a pleasure to create a game that undoubtedly leaves us with a thought about knowing what is right and what the consequences of our own actions are.
